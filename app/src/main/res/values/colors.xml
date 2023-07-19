@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="purple">#CE22E9</color>
+    <color name="white">#e9e9e9</color>
+    <color name="ultradark">#0E0C20</color>
+    <color name="button">#222347</color>
+    <color name="minDark">#1D1F31</color>
+    <color name="paper">#FCFCFC</color>
+    <color name="lightblue">#EFF5FF</color>
+    <color name="gold">#AD7C59</color>
+    <color name="grey">#AAAAAB</color>
 </resources>
