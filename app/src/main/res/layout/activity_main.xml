@@ -104,7 +104,7 @@
                 android:layout_margin="6dp"
                 android:backgroundTint="@color/button"
                 android:padding="6dp"
-                android:text="Tecnology"
+                android:text="technology"
                 android:textSize="12sp">
 
             </Button>

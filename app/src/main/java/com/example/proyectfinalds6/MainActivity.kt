@@ -71,18 +71,31 @@ class MainActivity : AppCompatActivity(), SelectListener, View.OnClickListener {
 
         b1 = findViewById(R.id.btn_1)
         b1.setOnClickListener(this)
+        b1.text = b1.text.toString().toUpperCase()
+
         b2 = findViewById(R.id.btn_2)
         b2.setOnClickListener(this)
+        b2.text = b2.text.toString().toUpperCase()
+
         b3 = findViewById(R.id.btn_3)
         b3.setOnClickListener(this)
+        b3.text = b3.text.toString().toUpperCase()
+
         b4 = findViewById(R.id.btn_4)
         b4.setOnClickListener(this)
+        b4.text = b4.text.toString().toUpperCase()
+
         b5 = findViewById(R.id.btn_5)
         b5.setOnClickListener(this)
+        b5.text = b5.text.toString().toUpperCase()
+
         b6 = findViewById(R.id.btn_6)
         b6.setOnClickListener(this)
+        b6.text = b6.text.toString().toUpperCase()
+
         b7 = findViewById(R.id.btn_7)
         b7.setOnClickListener(this)
+        b7.text = b7.text.toString().toUpperCase()
 
         val manager = RequestManager(this)
         manager.getNewsHeadlines(listener, "general", null)
