@@ -32,7 +32,7 @@
                 android:layout_margin="6dp"
                 android:backgroundTint="@color/button"
                 android:padding="6dp"
-                android:text="Negocios"
+                android:text="Business"
                 android:textSize="12sp">
 
             </Button>
@@ -44,7 +44,7 @@
                 android:layout_margin="6dp"
                 android:backgroundTint="@color/button"
                 android:padding="6dp"
-                android:text="Entretenimiento"
+                android:text="Entertainment"
                 android:textSize="12sp">
 
             </Button>
@@ -68,7 +68,7 @@
                 android:layout_margin="6dp"
                 android:backgroundTint="@color/button"
                 android:padding="6dp"
-                android:text="Salud"
+                android:text="Health"
                 android:textSize="12sp">
 
             </Button>
@@ -80,7 +80,7 @@
                 android:layout_margin="6dp"
                 android:backgroundTint="@color/button"
                 android:padding="6dp"
-                android:text="Ciencia"
+                android:text="Science"
                 android:textSize="12sp">
 
             </Button>
@@ -92,7 +92,7 @@
                 android:layout_margin="6dp"
                 android:backgroundTint="@color/button"
                 android:padding="6dp"
-                android:text="Deportes"
+                android:text="Sports"
                 android:textSize="12sp">
 
             </Button>
@@ -104,7 +104,7 @@
                 android:layout_margin="6dp"
                 android:backgroundTint="@color/button"
                 android:padding="6dp"
-                android:text="Tecnologia"
+                android:text="Tecnology"
                 android:textSize="12sp">
 
             </Button>
